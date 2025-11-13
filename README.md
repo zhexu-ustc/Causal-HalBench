@@ -2,4 +2,4 @@
 
 This repository is official implementation for our paper: [Causal-HalBench: Uncovering LVLMs Object Hallucinations Through Causal Intervention(AAAI 2026)]()
 
-<img src="./assets/intro.pdf" alt="image-20230517233229650" style="zoom:80%;" />
+<img src="./assets/intro.jpg" alt="image-20230517233229650" style="zoom:80%;" />
