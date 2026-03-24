@@ -43,7 +43,7 @@ This repository is official implementation for our paper: [Causal-HalBench: Unco
     }
   ]
   ```
-- You can refer to the code in the `inference` folder to generate answers.
+- You can refer to the code in the `./inference` folder to generate answers.
 
 ### 3. Evaluation
 - Compute our casual-based metrics (CAC, AAC, CHR)
