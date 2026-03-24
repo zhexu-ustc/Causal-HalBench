@@ -219,7 +219,9 @@ def evaluate(qa_file, resp_file):
         print(f"Evaluation error: {str(e)}")
         return {}
 
-def metric(qa_file, resp_file):
+if __name__ == "__main__":
+    qa_file = "qa.json"
+    resp_file = "your_answer.json"
     results = evaluate(qa_file, resp_file)
     print("Evaluation results:")
     for key, value in results.items():
